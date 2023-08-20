@@ -39,6 +39,7 @@ Contributing
 Contributions to the project are welcome! If you find any issues or have suggestions for improvements, please feel free to open a new issue or submit a pull request.
 
 Contact
-For any inquiries or further information, please get in touch with the project maintainers/Contributors:
-Kaushik Daiv - kaushik777d@gmail.com
+For any inquiries or further information, please get in touch with the project maintainers/Contributors:  
+
+Kaushik Daiv - kaushik777d@gmail.com  
 Mrunal Lachake - mrunallachake@gmail.com
