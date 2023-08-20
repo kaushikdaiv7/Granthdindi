@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sellers"
+        android:title="Sellers"
+        android:icon="@drawable/ic_add_shopping_cart_black_24dp"/>
+
+    <item
+        android:id="@+id/inventory"
+        android:title="Inventory"
+        android:icon="@drawable/ic_library_books_black_24dp"/>
+
+    <item
+        android:id="@+id/admins"
+        android:title="Admins"
+        android:icon="@drawable/ic_group_black_24dp"/>
+</menu>

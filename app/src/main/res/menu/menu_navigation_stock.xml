@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/stock_alloted"
+        android:title="Stock Alloted "
+        android:icon="@drawable/ic_add_shopping_cart_black_24dp"/>
+
+    <item
+        android:id="@+id/stock_sold"
+        android:title="Stock Sold"
+        android:icon="@drawable/ic_check_black_24dp"/>
+
+    <item
+        android:id="@+id/stock_return"
+        android:title="Stock Return"
+        android:icon="@drawable/ic_import_export_black_24dp"/>
+
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "857026049299",
+    "firebase_url": "https://granthdindi.firebaseio.com",
+    "project_id": "granthdindi",
+    "storage_bucket": "granthdindi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857026049299:android:fd606c3fe2004871e2d6e6",
+        "android_client_info": {
+          "package_name": "com.example.granthdindi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857026049299-uhuvu88vv8shhj5h59idov8gc25jgcap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.granthdindi",
+            "certificate_hash": "0eb19c0b6ad91342a647a9a1d639c319da9edb74"
+          }
+        },
+        {
+          "client_id": "857026049299-bv8d88sbdkkanlike4kg7ss3hob32rir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxahg26XwZHeSWoFc0ZEipluQrfJffe50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857026049299-bv8d88sbdkkanlike4kg7ss3hob32rir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

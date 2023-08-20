@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <EditText
+        android:hint="Book ID"
+        android:id="@+id/et_book_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <EditText
+        android:hint="Image Url"
+        android:id="@+id/et_img_url"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_book_id"
+        />
+    <EditText
+        android:hint="Book name in English"
+        android:id="@+id/et_english_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_img_url"
+        />
+    <EditText
+        android:hint="Book name in Marathi"
+        android:id="@+id/et_marathi_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_english_name"
+        />
+    <EditText
+        android:hint="Book Price"
+        android:id="@+id/et_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_marathi_name"
+        android:inputType="number"
+        />
+
+    <EditText
+        android:id="@+id/et_stocks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Book stocks"
+        android:layout_below="@+id/et_price"
+        android:inputType="number"/>
+
+</RelativeLayout>
