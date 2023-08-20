@@ -41,5 +41,5 @@ Contributions to the project are welcome! If you find any issues or have suggest
 Contact
 For any inquiries or further information, please get in touch with the project maintainers/Contributors:  
 
-Kaushik Daiv - kaushik777d@gmail.com  
 Mrunal Lachake - mrunallachake@gmail.com
+Kaushik Daiv - kaushik777d@gmail.com
